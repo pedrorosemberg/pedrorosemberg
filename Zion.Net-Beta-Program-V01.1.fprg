@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value="zion-net.rosemberg.com.br/beta-programs/36339282000101-resource-centre-of-tecnological-web-and-digital-management"/>
+        <attribute name="authors" value="ROSEMBERG DIGITAL LTDA-ME - PEDRO PAULO ROSEMBERG DA SILVA OLIVEIRA"/>
+        <attribute name="about" value="ROSEMBERG DIGITAL LTDA-ME&#13;&#10;CNPJ/MF:36.339.282/0001-01&#13;&#10;rosemberg.com.br/"/>
+        <attribute name="saved" value="2021-06-26 04:10:58 AM"/>
+        <attribute name="created" value="cGVkcm87UEVEUk8tUk9TRU1CRVJHOzIwMjEtMDYtMjY7MDM6MzY6MDggQU07MjkwNw=="/>
+        <attribute name="edited" value="cGVkcm87UEVEUk8tUk9TRU1CRVJHOzIwMjEtMDYtMjY7MDQ6MTA6NTggQU07MjszMDE0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="NomeCadastro, Email" type="String" array="False" size=""/>
+            <input variable="NomeCadastro"/>
+            <declare name="CPF, Telefone, Celular" type="Integer" array="False" size=""/>
+            <input variable="CPF"/>
+            <if expression="CPF==10332519686">
+                <then>
+                    <output expression="&quot;J&#225; possui cadastro, volte e fa&#231;a login&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Voc&#234; ainda n&#227;o possui cadastro, clique aqui e cadastre-se gratuitamente&quot;" newline="True"/>
+                    <input variable="CPF"/>
+                    <input variable="Telefone"/>
+                    <if expression="Telefone==31973123432">
+                        <then>
+                            <output expression="&quot;J&#225; possui cadastro, volte e fa&#231;a login&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Seja bem-vindo(a)&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

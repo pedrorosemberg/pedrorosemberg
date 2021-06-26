@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value="ZION FLEX PRO - MARKETING SOFTWARE - v1.02.352"/>
+        <attribute name="authors" value="&#169;2021 PEDRO ROSEMBERG, INC."/>
+        <attribute name="about" value="&#169;2021 PEDRO ROSEMBERG, INC. - 36.339.282/0001-01&#13;&#10;Developed by &#169;2021 Pedro Rosemberg 04-095011/K"/>
+        <attribute name="saved" value="2021-06-26 01:17:05 PM"/>
+        <attribute name="created" value="cGVkcm87UEVEUk8tUk9TRU1CRVJHOzIwMjEtMDYtMjY7MTE6NDk6MTEgQU07MjkwNA=="/>
+        <attribute name="edited" value="cGVkcm87UEVEUk8tUk9TRU1CRVJHOzIwMjEtMDYtMjY7MDE6MTc6MDUgUE07NjszMDI5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="adm, conta, senha, cpfoucnpj, rg, sms, email, acesso" type="Boolean" array="False" size=""/>
+            <output expression="&quot;Seja bem-vindo(a) ao GLOBAL LATAM BANK!&quot;" newline="True"/>
+            <output expression="&quot;Eu sou Pedrito, seu assistente virtual.&quot;" newline="True"/>
+            <output expression="&quot;Digite o n&#250;mero da sua conta com o d&#237;gito para continuar...&quot;" newline="True"/>
+            <input variable="adm"/>
+            <input variable="conta"/>
+            <if expression="conta==true">
+                <then/>
+                <else>
+                    <while expression="conta!=true">
+                        <output expression="&quot;Parece que voc&#234; digitou o n&#250;mero errado da sua conta. Tente novamente, por favor!&quot;" newline="True"/>
+                        <input variable="conta"/>
+                    </while>
+                </else>
+            </if>
+            <output expression="&quot;Legal! Voc&#234; &#233; nosso cliente. Seja bem-vindo(a) novamente! Agora digite sua senha&quot;" newline="True"/>
+            <input variable="senha"/>
+            <if expression="senha==true">
+                <then/>
+                <else>
+                    <while expression="senha!=true">
+                        <output expression="&quot;Parece que voc&#234; digitou sua senha errada. Tente novamente, por favor!&quot;" newline="True"/>
+                        <input variable="senha"/>
+                    </while>
+                </else>
+            </if>
+            <output expression="&quot;Legal! Falta poucos passos para voc&#234; ter acesso total a sua conta! Digite agora o n&#250;mero do seu CPF/CNPJ&quot;" newline="True"/>
+            <input variable="cpfoucnpj"/>
+            <if expression="cpfoucnpj==true">
+                <then/>
+                <else>
+                    <while expression="cpfoucnpj!=true">
+                        <output expression="&quot;Ooops! Parece que voc&#234; digitou o n&#250;mero errado do seu CPF/CNPJ. Tente novamente, por favor!&quot;" newline="True"/>
+                        <input variable="cpfoucnpj"/>
+                    </while>
+                </else>
+            </if>
+            <output expression="&quot;Muito legal! Agora digite seu Registro Geral (RG) ou Passaporte cadastrado&quot;" newline="True"/>
+            <input variable="rg"/>
+            <if expression="rg==true">
+                <then/>
+                <else>
+                    <while expression="rg!=true">
+                        <output expression="&quot;Oops! Parece que voc&#234; digitou os caracteres errados. Tente novamente, por favor!&quot;" newline="True"/>
+                        <input variable="rg"/>
+                    </while>
+                </else>
+            </if>
+            <output expression="&quot;Legal! Confirmamos sua identidade! Agora precisamos confirmar seu telefone e e-mail! Informe o c&#243;digo enviado ao seu telefone&quot;" newline="True"/>
+            <input variable="sms"/>
+            <if expression="sms==true">
+                <then/>
+                <else>
+                    <while expression="sms!=true">
+                        <output expression="&quot;Oops! Parece que voc&#234; digitou os caracteres errados. Tente novamente, por favor!&quot;" newline="True"/>
+                        <input variable="sms"/>
+                    </while>
+                </else>
+            </if>
+            <output expression="&quot;Por fim, informe-nos o c&#243;digo enviado ao seu e-mail cadastrado&quot;" newline="True"/>
+            <input variable="email"/>
+            <if expression="email==true">
+                <then/>
+                <else>
+                    <while expression="email!=true">
+                        <output expression="&quot;Oops! Parece que voc&#234; digitou os caracteres errados. Tente novamente, por favor!&quot;" newline="True"/>
+                        <input variable="email"/>
+                    </while>
+                </else>
+            </if>
+            <if expression="email==true">
+                <then/>
+                <else>
+                    <while expression="email!=true">
+                        <output expression="&quot;Acesso negado!&quot;" newline="True"/>
+                        <input variable="email"/>
+                    </while>
+                </else>
+            </if>
+            <assign variable="acesso" expression="true"/>
+            <if expression="acesso==true">
+                <then>
+                    <output expression="&quot;Acesso Liberado&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Acesso Negado!&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+    <function name="BIOS" type="Boolean" variable="true">
+        <parameters>
+            <parameter name="Adm" type="Real" array="False"/>
+            <parameter name="MACid" type="Real" array="False"/>
+            <parameter name="IPv4" type="Real" array="False"/>
+            <parameter name="IPv6" type="Integer" array="False"/>
+            <parameter name="IMEI" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="Adm" type="Boolean" array="False" size=""/>
+        </body>
+    </function>
+</flowgorithm>

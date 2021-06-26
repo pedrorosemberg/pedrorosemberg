@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value="secure-zion-net.rosemberg.com.br/beta-programs/"/>
+        <attribute name="authors" value="ROSEMBERG DIGITAL LTDA-ME - PEDRO PAULO ROSEMBERG DA SILVA OLIVEIRA"/>
+        <attribute name="about" value="ROSEMBERG DIGITAL LTDA-ME&#13;&#10;CNPJ/MF:36.339.282/0001-01&#13;&#10;rosemberg.com.br/security"/>
+        <attribute name="saved" value="2021-06-26 04:42:15 AM"/>
+        <attribute name="created" value="cGVkcm87UEVEUk8tUk9TRU1CRVJHOzIwMjEtMDYtMjY7MDM6MzY6MDggQU07MjkwNw=="/>
+        <attribute name="edited" value="cGVkcm87UEVEUk8tUk9TRU1CRVJHOzIwMjEtMDYtMjY7MDQ6NDI6MTUgQU07NjszMDE2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="pincode" type="Real" array="False" size=""/>
+            <declare name="id, cpf, senha, adm" type="String" array="False" size=""/>
+            <input variable="pincode"/>
+            <if expression="pincode==123456">
+                <then>
+                    <output expression="&quot;Programa aberto! Seja bem-vindo &#224; Rosemberg Digital Marketing &amp; Comunica&#231;&#227;o&quot;" newline="True"/>
+                    <input variable="adm"/>
+                    <if expression="pincode&gt;=123456">
+                        <then>
+                            <output expression="&quot;*Error 765!*&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Favor informar o seu c&#243;digo adm&quot;" newline="True"/>
+                            <input variable="adm"/>
+                        </else>
+                    </if>
+                </then>
+                <else>
+                    <output expression="&quot;Senha incorreta.&quot;" newline="True"/>
+                    <input variable="pincode"/>
+                    <if expression="pincode==123456">
+                        <then>
+                            <output expression="&quot;Para ter acesso &#224;s funcionalidades da sua conta, fa&#231;a a configura&#231;&#227;o da sua identidade no Aplicativo!&quot;" newline="True"/>
+                            <input variable="id"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Senha incorreta: 2 tentativas restantes&quot;" newline="True"/>
+                            <input variable="pincode"/>
+                            <if expression="pincode==123456">
+                                <then>
+                                    <output expression="&quot;Ser&#225; necess&#225;rio confirmar sua identidade pelo site ou aplicativo!&quot;" newline="True"/>
+                                    <input variable="cpf"/>
+                                </then>
+                                <else>
+                                    <output expression="&quot;Senha incorreta: 1 tentativa restante&quot;" newline="True"/>
+                                    <input variable="pincode"/>
+                                    <if expression="pincode==123456">
+                                        <then>
+                                            <output expression="&quot;Programa semi-aberto! Ser&#225; necess&#225;rio confirmar sua identidade!&quot;" newline="True"/>
+                                            <input variable="senha"/>
+                                        </then>
+                                        <else>
+                                            <output expression="&quot;Sua senha foi bloqueada! Voc&#234; ficar&#225; 2 meses sem acesso. Para recuperar seu acesso, entre em contato conosco pelo telefone +77 364 9872002 ou pelo e-mail suporte@rosemberg.com.br.&quot;" newline="True"/>
+                                        </else>
+                                    </if>
+                                </else>
+                            </if>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

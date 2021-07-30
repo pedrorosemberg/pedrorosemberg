@@ -1,7 +1,7 @@
 # Pedro Rosemberg
 ```
- - *CEO* da Rosemberg Marketing e Tecnologia S/A (PRMT S/A)
- - *Head de Marketing* da Faculdade CEDIN
+ - CEO da Rosemberg Marketing e Tecnologia S/A (PRMT S/A)
+ - Head de Marketing da Faculdade CEDIN
  - COO da Tecnoveste
  - CMO da Neonmaker
 ```

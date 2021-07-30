@@ -1,13 +1,11 @@
-# Olá, tudo bem?
-
-## Pedro Rosemberg
-
-#### COO da Tecnoveste
-#### CMO da Neonmaker
-#### Head de Marketing da Faculdade CEDIN
-#### CEO da PRMT
-
-
+# Pedro Rosemberg
+```
+ - *CEO* da Rosemberg Marketing e Tecnologia S/A (PRMT S/A)
+ - *Head de Marketing* da Faculdade CEDIN
+ - COO da Tecnoveste
+ - CMO da Neonmaker
+```
+---
  - LinkedIn: [Pedro Rosemberg](https://www.linkedin.com/in/pedrorosemberg/)
  - Whatsapp: [+55 31 97312-3432](https://instagram.com/opedrorosemberg)
  

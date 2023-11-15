@@ -1,7 +1,6 @@
 # Pedro Rosemberg
 
- - LinkedIn: [Pedro Rosemberg](https://www.linkedin.com/in/pedrorosemberg/)
- - Super Jovem: [superjovem.com.br](https://superjovem.com.br/sobre/)
+ - Currículo Lattes: [Pedro Rosemberg](https://lattes.cnpq.br/2162940985603250)
  
 
 <!---

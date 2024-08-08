@@ -1,56 +1,110 @@
-# Se liga no meu portfólio
+<h1 align="center">Check my portfolio</h1>
 
-Bem-vindo ao meu portfólio! Aqui você encontrará uma seleção dos meus projetos, habilidades e formas de contato.
+###
 
-## Sobre Mim
+<p align="left">Welcome to my portfolio!<br><br>On this site, I'll share my projects and programming progress!<br><br>Here you'll find a selection of my projects, skills and contact details.</p>
 
-Olá! Sou Pedro Rosemberg, futuro Engenheiro de Software. 
-Nesse site, criado por mim, irei compartilhar meus projetos e evolução na programação!
+###
 
-### Formação Acadêmica
-- Bacharelado em Engenharia de Software pela Faculdade Descomplica (08/2024-12/2028);
-- Aluno Especial do Programa de Pós-Graduação de Mestrado em Administração do CEFET-MG (08/2024-12/2024);
-- Especialização em Psicanálise Clínica pela FAMEF (05/2024-12/2024);
-- MBA em Gestão Comercial e Inteligência de Mercado pelo Centro Universitário Leonardo da Vinci-Uniasselvi (07/2023-12/2023);
-- Especialização em Marketing, Criatividade e Inovação pelo Centro Universitário Leonardo da Vinci-Uniasselvi (01/2023-06/2023);
-- Graduação CST em Marketing pelo Centro Universitário Leonardo da Vinci-Uniasselvi (06/2020-12/2022);
-- Bacharelado em Letras-Tecnologias da Edição pelo CEFET-MG (01/2019-12/2022);
+<h2 align="left">About me</h2>
 
+###
 
-## Projetos
+<p align="left">Hi, I'm Pedro Rosemberg, a future software engineer.<br><br>Bachelor's Degree in Software Engineering, Specialist in Clinical Psychoanalysis from FAMEF, MBA in Commercial Management and Market Intelligence from Leonardo da Vinci University Center, Specialist in Marketing, Creativity and Innovation from Leonardo da Vinci University Center, Technological Degree in Marketing from Leonardo da Vinci University Center.</p>
 
-### Projeto 1: Codever Tecnologia
-- **Descrição:** Grupo júnior de desenvolvimento de software situada em Belo Horizonte, MG - Brasil.
-- **Tecnologias Utilizadas:** HTML, CSS, JavaScript e Python
-- **Link do Projeto:** [Visualizar Projeto](https://pedro-rosembergs-projeto-portfolio-codever.vercel.app/codever.html)
+###
 
-### Projeto 2: SeekPay
-- **Descrição:** Software de gestão financeira.
-- **Tecnologias Utilizadas:** Html, Css, Javascript e Python.
-- **Link do Projeto:** [Visualizar Projeto](https://pedrorosemberg.github.io/seekpay/)
+<h2 align="left">About me</h2>
 
-### Projeto 3: MarketGuru
-- **Descrição:** Empresa de assessoria e gestão de Marketing.
-- **Link do Projeto:** [Visualizar Projeto](https://www.marketguru.com.br)
+###
 
-## Habilidades
-- **Linguagens de Programação:** JavaScript e Python
-- **Frameworks:** 
-- **Ferramentas e Tecnologias:** Git, AWS, GitHub, Firebase, Supabase e Vercel
+<h3 align="left">Softwares and Programs:</h3>
 
-## Contato
+###
 
-- **Email:** pedro@codever.com.br
-- **LinkedIn:** [linkedin.com/in/pedro-rosemberg](https://www.linkedin.com/in/pedro-rosemberg)
-- **GitHub:** [github.com/pedro-rosemberg](https://www.github.com/pedro-rosemberg)
-- **Lattes:** [Lattes nº 2162940985603250](https://lattes.cnpq.br/2162940985603250)
-- **WhatsApp:** [(11) 93473-8412](https://wa.me/5511934738412)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" alt="inkscape logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
+</div>
 
-Obrigado por visitar meu portfólio! Sinta-se à vontade para entrar em contato caso tenha interesse em trabalhar comigo ou queira saber mais sobre meus projetos.
+###
 
+<h3 align="left">Languages and Technologies:</h3>
 
-<!---
-&copy; Copyright 2018-2024 Pedro Rosemberg. All rights reserved. - Developed by Pedro P R S Oliveira, for the Codever and MarketGuru products, part of the PRCo, CNPJ 53.286.079/0001-25.
-pedrorosemberg/pedrorosemberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="60" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrorosemberg&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2&custom_title=Most%20used%20language" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">Take a look at my latest projects:</h3>
+
+###
+
+<div align="center">
+  <img height="30" src="https://static.wixstatic.com/media/a4a1d1_b8a3d8e936c540e283eb27753ac40af1~mv2.png/v1/fill/w_286,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/combination_mark_all_colors.png"  />
+</div>
+
+###
+
+<p align="left">MarketGuru offers marketing and communication services, specializing in performance based on data analysis. To find out more about our services, visit: marketguru.com.br.</p>
+
+###
+
+<div align="center">
+  <img height="30" src="https://codever.com.br/codever.png"  />
+</div>
+
+###
+
+<p align="left">Custom software and systems development group. To find out more about our services, visit: codever.com.br.</p>
+
+###
+
+<h3 align="left">My social networks and contact details:</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedrorosemberg/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/marketguruBR" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="behance logo"  />
+  </a>
+  <a href="https://www.instagram.com/opedrorosemberg/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/5511934738412" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###

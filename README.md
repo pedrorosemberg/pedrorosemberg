@@ -58,12 +58,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrorosemberg&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2&custom_title=Most%20used%20language" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h3 align="left">Take a look at my latest projects:</h3>
 
 ###

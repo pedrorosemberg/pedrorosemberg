@@ -73,7 +73,7 @@
 ###
 
 <div align="center">
-  <img height="30" src="https://codever.com.br/codever.png"  />
+  <img height="30" src="https://www.codever.com.br/assets/images/codever.png"  />
 </div>
 
 ###

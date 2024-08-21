@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.marketguru.com.br">
+  <a href="https://www.marketguru.com.br" target="blank">
     <img height="30" src="https://static.wixstatic.com/media/a4a1d1_b8a3d8e936c540e283eb27753ac40af1~mv2.png/v1/fill/w_286,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/combination_mark_all_colors.png"  />
   </a>
   
@@ -76,7 +76,7 @@
 ###
 
 <div align="center">
-    <a href="https://www.codever.com.br">
+    <a href="https://www.codever.com.br" target="blank">
        <img height="30" src="https://www.codever.com.br/assets/images/codever.png"  />
     </a>
  

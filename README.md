@@ -1,9 +1,17 @@
+###
+<h1 align="center">My stats</h1>
+
 <div align="center">
-  <a href="https://github.com/pedrorosemberg/">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrorosemberg&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrorosemberg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+
+  <img src="https://streak-stats.demolab.com?user=pedrorosemberg&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=pedrorosemberg&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrorosemberg&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
 </div>
 
+###
+###
 ###
 
 <h1 align="center">Check my portfolio</h1>
@@ -55,9 +63,7 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/pedrorosemberg/">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorosemberg&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrorosemberg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -73,10 +79,9 @@
   
 </div>
 
-###
-
 <p align="left">MarketGuru offers marketing and communication services, specializing in performance based on data analysis. To find out more about our services, visit: marketguru.com.br.</p>
 
+###
 ###
 
 <div align="left">
@@ -86,9 +91,19 @@
  
 </div>
 
+<p align="left">Custom software and systems development group. To find out more about our services, visit: codever.com.br.</p>
+
+###
 ###
 
-<p align="left">Custom software and systems development group. To find out more about our services, visit: codever.com.br.</p>
+<div align="left">
+  <a href="https://www.econx.com.br" target="blank">
+    <img height="30" src="https://www.econx.com.br/images/econex.png"  />
+  </a>
+  
+</div>
+
+<p align="left">ECONX is a greentech company whose mission is ‘to create innovative and accessible solutions for a more sustainable market, helping companies and people to reduce their carbon emissions and have access to sustainable energies, promoting a green future’. To find out more about our services, visit: econx.com.br.</p>
 
 ###
 
@@ -109,16 +124,6 @@
   <a href="https://wa.me/5511934738412" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrorosemberg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrorosemberg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=pedrorosemberg&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=pedrorosemberg&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrorosemberg&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###

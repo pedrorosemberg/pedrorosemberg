@@ -1,6 +1,5 @@
-<div>
+<div align="center">
   <a href="https://github.com/pedrorosemberg/">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorosemberg&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrorosemberg&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   </a>
 </div>
@@ -56,13 +55,9 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="60" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <a href="https://github.com/pedrorosemberg/">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorosemberg&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 ###
@@ -71,7 +66,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.marketguru.com.br" target="blank">
     <img height="30" src="https://static.wixstatic.com/media/a4a1d1_b8a3d8e936c540e283eb27753ac40af1~mv2.png/v1/fill/w_286,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/combination_mark_all_colors.png"  />
   </a>
@@ -84,7 +79,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
     <a href="https://www.codever.com.br" target="blank">
        <img height="30" src="https://www.codever.com.br/assets/images/codever.png"  />
     </a>

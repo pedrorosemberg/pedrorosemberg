@@ -106,24 +106,3 @@
 <p align="left">ECONX is a greentech company whose mission is ‘to create innovative and accessible solutions for a more sustainable market, helping companies and people to reduce their carbon emissions and have access to sustainable energies, promoting a green future’. To find out more about our services, visit: econx.com.br.</p>
 
 ###
-
-<h3 align="left">My social networks and contact details:</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedrorosemberg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/marketguruBR" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="behance logo"  />
-  </a>
-  <a href="https://www.instagram.com/opedrorosemberg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/5511934738412" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###

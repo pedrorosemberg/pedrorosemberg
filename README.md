@@ -23,7 +23,9 @@
 
 ###
 
-<p align="left">Hi, I'm Pedro Rosemberg, a future Computer Scientist..<br><br>Bachelor's Degree in Computer Science, Specialist in Clinical Psychoanalysis from FAMEF, MBA in Commercial Management and Market Intelligence from Leonardo da Vinci University Center, Specialist in Marketing, Creativity and Innovation from Leonardo da Vinci University Center, Technological Degree in Marketing from Leonardo da Vinci University Center.</p>
+<p align="left">Hi, I'm Pedro Rosemberg, a future Computer Scientist...<br><br>
+
+Bachelor's Degree in Computer Science, Specialist in Clinical Psychoanalysis from FAMEF, MBA in Commercial Management and Market Intelligence from Leonardo da Vinci University Center, Specialist in Marketing, Creativity and Innovation from Leonardo da Vinci University Center, Technological Degree in Marketing from Leonardo da Vinci University Center.</p>
 
 ###
 

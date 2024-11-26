@@ -146,7 +146,7 @@ Bachelor's Degree in Computer Science, Specialist in Clinical Psychoanalysis fro
 
 <div align="left">
   <a href="https://www.econx.com.br" target="blank">
-    <img height="30" src="https://www.econx.com.br/images/econex.png"  />
+    <img height="30" src="https://www.econx.com.br/assets/icons/econex.png"  />
   </a>
   
 </div>

@@ -69,6 +69,6 @@ Atualmente, estou aprofundando meus conhecimentos com um Bacharelado em Ciência
 
 * **Lattes:** [lattes.cnpq.br/2162940985603250](http://lattes.cnpq.br/2162940985603250)
 
-* **Email:** pedro.rosemberg@fiemg.com.br
+* **Email:** pedro@metadax.com.br
 
 Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades e conhecimentos em ambientes que valorizem a inovação e a segurança. Sinta-se à vontade para explorar meus projetos e entrar em contato!

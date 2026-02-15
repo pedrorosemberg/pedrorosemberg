@@ -1,74 +1,151 @@
-# Pedro Rosemberg
+<div align="center">
 
-### DevSecOps | Inteligência Artificial (IA) | Engenharia de Software | Ciência da Computação | Segurança da Informação | Cibersegurança | Membro ABRASECI | ISACA Student Associate Belo Horizonte Chapter
+![Galaxy Header](./assets/generated/galaxy-header.svg)
 
-## 📈 Minhas Estatísticas no GitHub
+</div>
 
-Aqui estão algumas estatísticas dinâmicas do meu perfil no GitHub, refletindo minhas contribuições e atividades:
+---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrorosemberg&show_icons=true&theme=dark&hide_border=true)](https://github.com/pedrorosemberg)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorosemberg&layout=compact&theme=dark&hide_border=true)](https://github.com/pedrorosemberg)
+<div align="center">
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pedrorosemberg.pedrorosemberg)](https://github.com/pedrorosemberg)
+### 🚀 Navegando pelo Universo da Inovação e Tecnologia
 
-Olá! Sou Pedro Rosemberg, um profissional apaixonado por tecnologia, com um foco robusto em **Engenharia de Software** e **Cibersegurança**. Minha jornada é marcada por uma abordagem multidisciplinar, combinando visão estratégica com expertise técnica para construir soluções inovadoras e seguras.
+**Desenvolvedor de Software** • **Especialista em Marketing & Criatividade** • **Pesquisador**
 
-Atualmente, estou aprofundando meus conhecimentos com um Bacharelado em Ciência da Computação, complementado por especializações em Segurança da Informação, Cibersegurança, Computação Forense e Gestão de TI. Minha atuação como **Software Engineer** na METADAX e **Information Security Trainee** na FIEMG, junto à minha afiliação à ABRASECI e ao programa Rota Futuro, reforçam meu compromisso com a excelência e a inovação contínua.
+</div>
 
-## 🚀 Destaques da Minha Carreira
+---
 
-* **Desenvolvimento Full-Stack & Otimização de Performance:** Liderança no desenvolvimento e manutenção de plataformas web na METADAX, com integrações de APIs e otimização de performance (atingindo 92% no PageSpeed), sempre com foco em segurança.
+## 🌌 Mission Telemetry
 
-* **Inteligência Artificial Aplicada:** Implementei IA em contextos práticos, desde o desenvolvimento de chatbots e geração de conteúdo até análise de dados e modelagem preditiva para otimização de processos.
+<div align="center">
 
-* **Segurança Digital & Implementação de Medidas Proativas:** Desenvolvi e implementei estratégias de proteção de contas, contribuindo diretamente para a segurança digital de ativos da empresa e de clientes.
+![Mission Stats](./assets/generated/stats-card.svg)
 
-* **Gestão Ágil de Projetos:** Liderança em projetos de inovação com metodologias ágeis e design centrado no usuário (UX/UI), espelhando práticas modernas de desenvolvimento de software.
+</div>
 
-* **Otimização de Fluxos de Trabalho:** Otimizei processos de pré-produção e fluxos de trabalho, resultando em redução de tempo de execução e aumento da eficiência.
+---
 
-## 🛠️ Habilidades Técnicas
+## 🔭 Tech Stack & Focus Sectors
 
-* **Linguagens & Tecnologias:** JavaScript, Python, Ruby, HTML, CSS, SQL
+<div align="center">
 
-* **Frameworks & Bibliotecas:** React, Node.js, TailwindCSS
+![Tech Stack](./assets/generated/tech-stack.svg)
 
-* **Ferramentas:** Figma, VSCode, IntelliJ IDEA, PyCharm, Supabase, Vercel, Netlify, AWS, Firebase, Google Cloud Console, MySQL, SQLite, MongoDB
+</div>
 
-* **Segurança:** Conceitos de Cibersegurança, Computação Forense, Gestão de Riscos.
+---
 
-## 🎓 Formação Acadêmica & Certificações
+## ⭐ Featured Systems
 
-* **Bacharelado em Ciência da Computação** (em andamento)
+<div align="center">
 
-* **Pós-graduações em:**
+![Featured Projects](./assets/generated/projects-constellation.svg)
 
-  * Computação Forense
+</div>
 
-  * Segurança da Informação
+---
 
-  * Gestão de Riscos e Cibersegurança
+## 💫 Sobre Mim
 
-  * Gestão da Tecnologia da Informação
+Sou um profissional multidisciplinar que combina desenvolvimento de software com expertise em marketing, criatividade e inovação. Atualmente trabalho na **ECONX** em São Paulo, onde transformo ideias em soluções tecnológicas inovadoras.
 
-* **Certificações:**
+### 🎯 Minha Abordagem
 
-  * Formação Segurança Defensiva
+- **Inovação Centrada**: Acredito que tecnologia e criatividade devem andar juntas
+- **Pesquisa & Desenvolvimento**: Constantemente explorando novas tecnologias e metodologias
+- **Resolução Criativa de Problemas**: Cada desafio é uma oportunidade de inovação
+- **Aprendizado Contínuo**: Sempre curioso, sempre aprendendo
 
-  * Programming Logic and JavaScript
+### 🔬 Áreas de Interesse
 
-  * CS50's Cybersecurity (Google Inc. & Harvard University)
+```javascript
+const interesses = {
+  desenvolvimento: ["Full Stack", "React", "Node.js", "Python"],
+  marketing: ["Marketing Digital", "Growth Hacking", "Brand Strategy"],
+  pesquisa: ["Inovação", "User Experience", "Market Insights"],
+  criatividade: ["UI/UX Design", "Creative Coding", "Visual Design"]
+};
+```
 
-  * Membro da Associação Brasileira de Segurança Cibernética (ABRASECI)
+---
 
-## 🌐 Conecte-se Comigo
+## 📡 Canais de Comunicação
 
-* **LinkedIn:** [linkedin.com/in/pedrorosemberg](https://www.linkedin.com/in/pedrorosemberg)
+<div align="center">
 
-* **Portfólio:** [pedrorosemberg.com/](https://pedrorosemberg.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dev.pedrorosemberg.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrorosemberg)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/pedrorosemberg)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4947-8174)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/opedrorosemberg)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro@dev.pedrorosemberg.com)
 
-* **Lattes:** [lattes.cnpq.br/2162940985603250](http://lattes.cnpq.br/2162940985603250)
+</div>
 
-* **Email:** pedro@metadax.com.br
+---
 
-Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades e conhecimentos em ambientes que valorizem a inovação e a segurança. Sinta-se à vontade para explorar meus projetos e entrar em contato!
+## 🎓 Filosofia de Trabalho
+
+> *"Inovação não é apenas sobre tecnologia, é sobre transformar ideias em realidade"*
+
+Acredito no poder da combinação entre conhecimento técnico e pensamento criativo. Cada linha de código, cada estratégia de marketing e cada pesquisa que desenvolvo são guiadas pela busca constante por inovação e excelência.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrorosemberg&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e1a&title_color=00d9ff&icon_color=9d4edd&text_color=e8e6f0)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorosemberg&layout=compact&theme=radical&hide_border=true&bg_color=0a0e1a&title_color=00d9ff&text_color=e8e6f0)
+
+</div>
+
+---
+
+## 🌟 Contribuições Recentes
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrorosemberg&theme=react-dark&hide_border=true&area=true&bg_color=0a0e1a&color=00d9ff&line=9d4edd&point=ffc857)
+
+</div>
+
+---
+
+## 🏆 Achievements & Milestones
+
+- 🔬 **Pesquisador Registrado** - ORCID verificado para publicações acadêmicas
+- 💼 **Developer Program Member** - Membro ativo da comunidade GitHub
+- 🎨 **Creative Professional** - Portfolio ativo no Behance
+- 🚀 **Innovation Specialist** - Foco em soluções criativas e tecnológicas
+
+---
+
+## 🤝 Vamos Conectar!
+
+Estou sempre aberto para colaborações interessantes, discussões sobre tecnologia e inovação, ou apenas para um bate-papo sobre projetos inovadores!
+
+- 📧 **Email**: pedro@dev.pedrorosemberg.com
+- 💼 **LinkedIn**: [/in/pedrorosemberg](https://linkedin.com/in/pedrorosemberg)
+- 🌐 **Website**: [dev.pedrorosemberg.com](https://dev.pedrorosemberg.com)
+- 🎨 **Behance**: [pedrorosemberg](https://behance.net/pedrorosemberg)
+
+---
+
+<div align="center">
+
+### ⚡ "Solving one problem at a time, with code and creativity"
+
+![Profile Views](https://komarev.com/ghpvc/?username=pedrorosemberg&color=00d9ff&style=flat-square)
+![Followers](https://img.shields.io/github/followers/pedrorosemberg?style=flat-square&color=9d4edd&logo=github)
+
+---
+
+**⭐ Se você gostou do meu trabalho, considere dar uma estrela nos repositórios!**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>

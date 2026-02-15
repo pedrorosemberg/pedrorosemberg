@@ -7,8 +7,8 @@ username: pedrorosemberg
 # Profile information
 profile:
   name: Pedro Rosemberg
-  tagline: Software Developer | Marketing & Innovation Specialist
-  company: ECONX
+  tagline: Software Developer | Marketing & Innovation Strategist | Cybersecurity Specialist
+  company: METADAX | FIEMG System
   location: São Paulo, SP, Brazil
   bio: "Solving one problem at a time, with code and creativity."
   philosophy: "Innovation is not just about technology, it's about transforming ideas into reality"
@@ -16,10 +16,20 @@ profile:
 # Social links
 social:
   email: pedro@metadax.com.br
+  phone: +5511934738412
+  whatsapp: https://wa.me/5511934738412
   linkedin: pedrorosemberg
   website: https://pedrorosemberg.com
-  website2: https://www.metadax.com.br/pedrorosemberg
+  metadax: https://www.metadax.com.br/pedrorosemberg
   orcid: https://orcid.org/0000-0002-4947-8174
+  cra_sp: 6-009145
+
+# Professional memberships
+memberships:
+  - ISACA
+  - ANIPF
+  - ABRASECI
+  - CRA-SP
 
 # Galaxy arms - 3 focus sectors
 galaxy_arms:
@@ -31,40 +41,41 @@ galaxy_arms:
       - React
       - Node.js
       - TypeScript
+      - Full Stack Development
   
-  - name: Creative Systems
+  - name: Security & Strategy
     color: dendrite_violet
     items:
-      - UI/UX Design
-      - Marketing Tech
-      - Data Analysis
-      - Creative Coding
-      - Behance
+      - Cybersecurity
+      - GRC (Governance, Risk & Compliance)
+      - Security Awareness
+      - Threat Management
+      - IT Management
   
-  - name: Research Hub
+  - name: Marketing Intelligence
     color: axon_amber
     items:
-      - ORCID
-      - Academic Research
-      - Innovation Studies
-      - Market Analysis
-      - Strategic Planning
+      - Digital Marketing
+      - Market Intelligence
+      - Data Analysis
+      - Brand Strategy
+      - Growth Hacking
 
 # Featured projects constellation
 projects:
-  - repo: pedrorosemberg/portfolio
+  - repo: pedrorosemberg/metadax-platform
     arm: 0
-    description: Personal portfolio showcasing projects and programming journey
+    description: Custom digital solutions platform with innovative approach
   
-  - repo: pedrorosemberg/innovation-toolkit
+  - repo: pedrorosemberg/security-awareness
     arm: 1
-    description: Tools and frameworks for creative problem solving
+    description: GRC and security awareness tools and frameworks
   
-  - repo: pedrorosemberg/market-insights
+  - repo: pedrorosemberg/market-intelligence
     arm: 2
-    description: Data-driven insights and marketing research projects
+    description: Data-driven marketing insights and analytics dashboard
 
-# Theme colors (optional - overrides defaults)
+# Theme colors (deep space palette)
 theme:
   space_void: "#0a0e1a"
   nebula_purple: "#2d1b69"

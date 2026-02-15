@@ -92,18 +92,50 @@ Acredito no poder da combinação entre conhecimento técnico e pensamento criat
 
 ---
 
+## 🏆 Certificações & Conquistas
+
+<div align="center">
+
+<img src="https://cdn.metadax.com.br/assets/badges/mail-icons/100x100px/cyber-threat-management(1).png" alt="Cyber Threat Management" width="100" height="100"/>
+<img src="https://cdn.metadax.com.br/assets/badges/mail-icons/100x100px/Digital_Mar_Assoc_800.png" alt="Digital Marketing Associate" width="100" height="100"/>
+<img src="https://cdn.metadax.com.br/assets/badges/mail-icons/100x100px/Cert_Mar_Sci_Pro_800px.png" alt="Marketing Science Professional" width="100" height="100"/>
+<img src="https://cdn.metadax.com.br/assets/badges/mail-icons/100x100px/image.png" alt="Meta Certification" width="100" height="100"/>
+<img src="https://cdn.metadax.com.br/assets/badges/mail-icons/100x100px/6image.png" alt="Meta Digital Marketing" width="100" height="100"/>
+<img src="https://cdn.metadax.com.br/assets/badges/mail-icons/100x100px/5image.png" alt="Globe Academy" width="100" height="100"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+- 🔬 **Pesquisador Registrado** - ORCID verificado para publicações acadêmicas
+- 🛡️ **Cyber Threat Management** - Especialização em segurança cibernética
+- 📊 **Marketing Science Professional** - Certificação Meta em Marketing Digital
+- 💼 **Digital Marketing Associate** - Credenciamento profissional
+- 🎓 **Meta Certified** - Múltiplas certificações Meta para negócios
+- 🌐 **Globe Academy** - Formação internacional certificada
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrorosemberg&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e1a&title_color=00d9ff&icon_color=9d4edd&text_color=e8e6f0&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorosemberg&layout=compact&theme=radical&hide_border=true&bg_color=0a0e1a&title_color=00d9ff&text_color=e8e6f0&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=pedrorosemberg&theme=radical&hide_border=true&background=0a0e1a&ring=00d9ff&fire=ffc857&currStreakLabel=e8e6f0&sideLabels=e8e6f0&currStreakNum=00d9ff&sideNums=9d4edd)
+<!-- GitHub Streak Stats -->
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com/?user=pedrorosemberg&theme=radical&hide_border=true&background=0a0e1a&ring=00d9ff&fire=ffc857&currStreakLabel=e8e6f0&sideLabels=e8e6f0&currStreakNum=00d9ff&sideNums=9d4edd"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com/?user=pedrorosemberg&theme=radical&hide_border=true&background=0a0e1a&ring=00d9ff&fire=ffc857&currStreakLabel=e8e6f0&sideLabels=e8e6f0&currStreakNum=00d9ff&sideNums=9d4edd"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com/?user=pedrorosemberg&theme=radical&hide_border=true&background=0a0e1a&ring=00d9ff&fire=ffc857&currStreakLabel=e8e6f0&sideLabels=e8e6f0&currStreakNum=00d9ff&sideNums=9d4edd" alt="GitHub Streak" />
+</picture>
 
 </div>
 
@@ -113,18 +145,19 @@ Acredito no poder da combinação entre conhecimento técnico e pensamento criat
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrorosemberg&theme=react-dark&hide_border=true&area=true&bg_color=0a0e1a&color=00d9ff&line=9d4edd&point=ffc857)
+<picture>
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=pedrorosemberg&theme=react-dark&hide_border=true&area=true&bg_color=0a0e1a&color=00d9ff&line=9d4edd&point=ffc857"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=pedrorosemberg&theme=react-dark&hide_border=true&area=true&bg_color=0a0e1a&color=00d9ff&line=9d4edd&point=ffc857"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrorosemberg&theme=react-dark&hide_border=true&area=true&bg_color=0a0e1a&color=00d9ff&line=9d4edd&point=ffc857" alt="Contribution Graph" />
+</picture>
 
 </div>
-
----
-
-## 🏆 Achievements & Milestones
-
-- 🔬 **Pesquisador Registrado** - ORCID verificado para publicações acadêmicas
-- 💼 **Developer Program Member** - Membro ativo da comunidade GitHub
-- 🎨 **Innovation Professional** - Portfólio em pedrorosemberg.com
-- 🚀 **Innovation Specialist** - Foco em soluções criativas e tecnológicas
 
 ---
 

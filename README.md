@@ -8,9 +8,9 @@
 
 <div align="center">
 
-### 🚀 Navegando pelo Universo da Inovação e Tecnologia
+### 🚀 Navigating the Universe of Innovation and Technology
 
-**Desenvolvedor de Software** • **Especialista em Marketing & Criatividade** • **Pesquisador**
+**Software Developer** • **Marketing & Innovation Strategist** • **Cybersecurity Specialist** • **Researcher**
 
 </div>
 
@@ -46,37 +46,47 @@
 
 ---
 
-## 💫 Sobre Mim
+## 💫 About Me
 
-Sou um profissional multidisciplinar que combina desenvolvimento de software com expertise em marketing, criatividade e inovação. Atualmente trabalho na **ECONX** em São Paulo, onde transformo ideias em soluções tecnológicas inovadoras.
+Real innovation is not born solely from technology, but from the ability to connect dots that others ignore. As founder of **METADAX**, I am a strategist who operates at the intersection of systemic thinking and creative potential.
 
-### 🎯 Minha Abordagem
+My diverse background spans Marketing, Innovation, IT Management, Human Behavior, and Cybersecurity, enabling a 360° view of how to make disruptive ideas viable with security and market intelligence.
 
-- **Inovação Centrada**: Acredito que tecnologia e criatividade devem andar juntas
-- **Pesquisa & Desenvolvimento**: Constantemente explorando novas tecnologias e metodologias
-- **Resolução Criativa de Problemas**: Cada desafio é uma oportunidade de inovação
-- **Aprendizado Contínuo**: Sempre curioso, sempre aprendendo
+As a member of prestigious institutions such as **ISACA**, **ANIPF**, and **ABRASECI**, I combine academic rigor with the experience of building custom digital solutions from scratch.
 
-### 🔬 Áreas de Interesse
+Currently, I work in the **GRC & Awareness** core of the Information Security Management at the **FIEMG System** industrial innovation ecosystem.
+
+My approach is designed for organizations that seek not just to follow change, but to anticipate it, using creativity as the ultimate tool for management and survival in today's market.
+
+### 🎯 My Approach
+
+- **Innovation-Centered**: Technology and creativity must go hand in hand
+- **Research & Development**: Constantly exploring new technologies and methodologies
+- **Creative Problem Solving**: Every challenge is an opportunity for innovation
+- **Continuous Learning**: Always curious, always learning
+
+### 🔬 Areas of Expertise
 
 ```javascript
-const interesses = {
-  desenvolvimento: ["Full Stack", "React", "Node.js", "Python"],
-  marketing: ["Marketing Digital", "Growth Hacking", "Brand Strategy"],
-  pesquisa: ["Inovação", "User Experience", "Market Insights"],
-  criatividade: ["UI/UX Design", "Creative Coding", "Visual Design"]
+const expertise = {
+  development: ["Full Stack", "React", "Node.js", "Python"],
+  marketing: ["Digital Marketing", "Growth Hacking", "Brand Strategy"],
+  cybersecurity: ["GRC", "Security Awareness", "Threat Management"],
+  research: ["Innovation", "User Experience", "Market Intelligence"],
+  creativity: ["UI/UX Design", "Creative Coding", "Visual Design"]
 };
 ```
 
 ---
 
-## 📡 Canais de Comunicação
+## 📡 Contact Channels
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pedrorosemberg.com)
 [![Metadax](https://img.shields.io/badge/Metadax-FF6B00?style=for-the-badge&logo=web&logoColor=white)](https://www.metadax.com.br/pedrorosemberg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrorosemberg)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511934738412)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4947-8174)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro@metadax.com.br)
 
@@ -84,24 +94,24 @@ const interesses = {
 
 ---
 
-## 🎓 Filosofia de Trabalho
+## 🎓 Professional Philosophy
 
-> *"Inovação não é apenas sobre tecnologia, é sobre transformar ideias em realidade"*
+> *"Innovation is not just about technology, it's about transforming ideas into reality"*
 
-Acredito no poder da combinação entre conhecimento técnico e pensamento criativo. Cada linha de código, cada estratégia de marketing e cada pesquisa que desenvolvo são guiadas pela busca constante por inovação e excelência.
+I believe in the power of combining technical knowledge with creative thinking. Every line of code, every marketing strategy, and every research I develop is guided by the constant pursuit of innovation and excellence.
 
 ---
 
-## 🏆 Certificações & Conquistas
+## 🏆 Certifications & Achievements
 
 <div align="center">
 
+<img src="https://cdn.metadax.com.br/assets/badges/mail-icons/100x100px/5image.png" alt="Globe Academy" width="100" height="100"/>
 <img src="https://cdn.metadax.com.br/assets/badges/mail-icons/100x100px/cyber-threat-management(1).png" alt="Cyber Threat Management" width="100" height="100"/>
 <img src="https://cdn.metadax.com.br/assets/badges/mail-icons/100x100px/Digital_Mar_Assoc_800.png" alt="Digital Marketing Associate" width="100" height="100"/>
 <img src="https://cdn.metadax.com.br/assets/badges/mail-icons/100x100px/Cert_Mar_Sci_Pro_800px.png" alt="Marketing Science Professional" width="100" height="100"/>
 <img src="https://cdn.metadax.com.br/assets/badges/mail-icons/100x100px/image.png" alt="Meta Certification" width="100" height="100"/>
 <img src="https://cdn.metadax.com.br/assets/badges/mail-icons/100x100px/6image.png" alt="Meta Digital Marketing" width="100" height="100"/>
-<img src="https://cdn.metadax.com.br/assets/badges/mail-icons/100x100px/5image.png" alt="Globe Academy" width="100" height="100"/>
 
 </div>
 
@@ -109,17 +119,23 @@ Acredito no poder da combinação entre conhecimento técnico e pensamento criat
 
 <div align="center">
 
-🔬 **Pesquisador Registrado** - ORCID verificado para publicações acadêmicas
+🔬 **Registered Researcher** - ORCID verified for academic publications
 
-🛡️ **Cyber Threat Management** - Especialização em segurança cibernética
+📋 **CRA-SP Registered** - Regional Council of Administration 6-009145
 
-📊 **Marketing Science Professional** - Certificação Meta em Marketing Digital
+🛡️ **Cyber Threat Management** - Specialization in cybersecurity
 
-💼 **Digital Marketing Associate** - Credenciamento profissional
+📊 **Marketing Science Professional** - Meta Certification in Digital Marketing
 
-🎓 **Meta Certified** - Múltiplas certificações Meta para negócios
+💼 **Digital Marketing Associate** - Professional credential
 
-🌐 **Globe Academy** - Formação internacional certificada
+🎓 **Meta Certified** - Multiple Meta certifications for business
+
+🌐 **Globe Academy** - International certified training
+
+🏛️ **Professional Memberships** - ISACA, ANIPF, ABRASECI
+
+🔐 **GRC & Awareness Specialist** - FIEMG System Information Security Management
 
 </div>
 
@@ -146,7 +162,7 @@ Acredito no poder da combinação entre conhecimento técnico e pensamento criat
 
 ---
 
-## 🌟 Contribuições Recentes
+## 🌟 Recent Contributions
 
 <div align="center">
 
@@ -166,14 +182,29 @@ Acredito no poder da combinação entre conhecimento técnico e pensamento criat
 
 ---
 
-## 🤝 Vamos Conectar!
+## 🎤 Speaking & Consulting
 
-Estou sempre aberto para colaborações interessantes, discussões sobre tecnologia e inovação, ou apenas para um bate-papo sobre projetos inovadores!
+My presentations are designed for institutions seeking not just to keep up with change, but to anticipate it. I help organizations leverage creativity as the ultimate management and survival tool in today's market.
+
+**Topics:**
+- 🚀 Digital Innovation & Transformation
+- 🔐 Cybersecurity & GRC Strategies
+- 📊 Data-Driven Marketing Intelligence
+- 🎨 Creative Problem Solving for Business
+- 🧠 Human Behavior in Digital Environments
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to interesting collaborations, discussions about technology and innovation, or just a chat about innovative projects!
 
 - 📧 **Email**: pedro@metadax.com.br
+- 📱 **WhatsApp**: [+55 11 93473-8412](https://wa.me/5511934738412)
 - 💼 **LinkedIn**: [/in/pedrorosemberg](https://linkedin.com/in/pedrorosemberg)
 - 🌐 **Website**: [pedrorosemberg.com](https://pedrorosemberg.com)
 - 🚀 **Metadax**: [metadax.com.br/pedrorosemberg](https://www.metadax.com.br/pedrorosemberg)
+- 📋 **CRA-SP**: 6-009145
 
 ---
 
@@ -186,7 +217,7 @@ Estou sempre aberto para colaborações interessantes, discussões sobre tecnolo
 
 ---
 
-**⭐ Se você gostou do meu trabalho, considere dar uma estrela nos repositórios!**
+**⭐ If you liked my work, consider giving a star to the repositories!**
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 

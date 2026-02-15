@@ -1,0 +1,94 @@
+# Galaxy Profile Configuration - Pedro Rosemberg
+# Your GitHub profile, reimagined as a galaxy
+
+# GitHub username
+username: pedrorosemberg
+
+# Profile information
+profile:
+  name: Pedro Rosemberg
+  tagline: Software Developer | Marketing & Innovation Specialist
+  company: ECONX
+  location: São Paulo, SP, Brazil
+  bio: "Solving one problem at a time, with code and creativity."
+  philosophy: "Innovation is not just about technology, it's about transforming ideas into reality"
+
+# Social links
+social:
+  email: pedro@dev.pedrorosemberg.com
+  linkedin: pedrorosemberg
+  website: https://dev.pedrorosemberg.com
+  orcid: https://orcid.org/0000-0002-4947-8174
+  behance: pedrorosemberg
+  twitter: opedrorosemberg
+
+# Galaxy arms - 3 focus sectors
+galaxy_arms:
+  - name: Innovation Lab
+    color: synapse_cyan
+    items:
+      - JavaScript
+      - Python
+      - React
+      - Node.js
+      - TypeScript
+  
+  - name: Creative Systems
+    color: dendrite_violet
+    items:
+      - UI/UX Design
+      - Marketing Tech
+      - Data Analysis
+      - Creative Coding
+      - Behance
+  
+  - name: Research Hub
+    color: axon_amber
+    items:
+      - ORCID
+      - Academic Research
+      - Innovation Studies
+      - Market Analysis
+      - Strategic Planning
+
+# Featured projects constellation
+projects:
+  - repo: pedrorosemberg/portfolio
+    arm: 0
+    description: Personal portfolio showcasing projects and programming journey
+  
+  - repo: pedrorosemberg/innovation-toolkit
+    arm: 1
+    description: Tools and frameworks for creative problem solving
+  
+  - repo: pedrorosemberg/market-insights
+    arm: 2
+    description: Data-driven insights and marketing research projects
+
+# Theme colors (optional - overrides defaults)
+theme:
+  space_void: "#0a0e1a"
+  nebula_purple: "#2d1b69"
+  star_white: "#e8e6f0"
+  synapse_cyan: "#00d9ff"
+  dendrite_violet: "#9d4edd"
+  axon_amber: "#ffc857"
+  orbit_blue: "#4361ee"
+  core_glow: "#7209b7"
+  antimatter_grey: "#495057"
+
+# Stats configuration
+stats:
+  metrics:
+    - commits
+    - stars
+    - prs
+    - issues
+    - repos
+
+# Language configuration
+languages:
+  exclude:
+    - HTML
+    - CSS
+  max_display: 6

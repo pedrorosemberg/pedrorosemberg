@@ -74,12 +74,11 @@ const interesses = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dev.pedrorosemberg.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pedrorosemberg.com)
+[![Metadax](https://img.shields.io/badge/Metadax-FF6B00?style=for-the-badge&logo=web&logoColor=white)](https://www.metadax.com.br/pedrorosemberg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrorosemberg)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/pedrorosemberg)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4947-8174)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/opedrorosemberg)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro@dev.pedrorosemberg.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro@metadax.com.br)
 
 </div>
 
@@ -97,9 +96,14 @@ Acredito no poder da combinação entre conhecimento técnico e pensamento criat
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrorosemberg&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e1a&title_color=00d9ff&icon_color=9d4edd&text_color=e8e6f0)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrorosemberg&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e1a&title_color=00d9ff&icon_color=9d4edd&text_color=e8e6f0&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorosemberg&layout=compact&theme=radical&hide_border=true&bg_color=0a0e1a&title_color=00d9ff&text_color=e8e6f0&langs_count=8"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorosemberg&layout=compact&theme=radical&hide_border=true&bg_color=0a0e1a&title_color=00d9ff&text_color=e8e6f0)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=pedrorosemberg&theme=radical&hide_border=true&background=0a0e1a&ring=00d9ff&fire=ffc857&currStreakLabel=e8e6f0&sideLabels=e8e6f0&currStreakNum=00d9ff&sideNums=9d4edd)
 
 </div>
 
@@ -119,7 +123,7 @@ Acredito no poder da combinação entre conhecimento técnico e pensamento criat
 
 - 🔬 **Pesquisador Registrado** - ORCID verificado para publicações acadêmicas
 - 💼 **Developer Program Member** - Membro ativo da comunidade GitHub
-- 🎨 **Creative Professional** - Portfolio ativo no Behance
+- 🎨 **Innovation Professional** - Portfólio em pedrorosemberg.com
 - 🚀 **Innovation Specialist** - Foco em soluções criativas e tecnológicas
 
 ---
@@ -128,10 +132,10 @@ Acredito no poder da combinação entre conhecimento técnico e pensamento criat
 
 Estou sempre aberto para colaborações interessantes, discussões sobre tecnologia e inovação, ou apenas para um bate-papo sobre projetos inovadores!
 
-- 📧 **Email**: pedro@dev.pedrorosemberg.com
+- 📧 **Email**: pedro@metadax.com.br
 - 💼 **LinkedIn**: [/in/pedrorosemberg](https://linkedin.com/in/pedrorosemberg)
-- 🌐 **Website**: [dev.pedrorosemberg.com](https://dev.pedrorosemberg.com)
-- 🎨 **Behance**: [pedrorosemberg](https://behance.net/pedrorosemberg)
+- 🌐 **Website**: [pedrorosemberg.com](https://pedrorosemberg.com)
+- 🚀 **Metadax**: [metadax.com.br/pedrorosemberg](https://www.metadax.com.br/pedrorosemberg)
 
 ---
 

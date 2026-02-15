@@ -109,12 +109,17 @@ Acredito no poder da combinação entre conhecimento técnico e pensamento criat
 
 <div align="center">
 
-- 🔬 **Pesquisador Registrado** - ORCID verificado para publicações acadêmicas
-- 🛡️ **Cyber Threat Management** - Especialização em segurança cibernética
-- 📊 **Marketing Science Professional** - Certificação Meta em Marketing Digital
-- 💼 **Digital Marketing Associate** - Credenciamento profissional
-- 🎓 **Meta Certified** - Múltiplas certificações Meta para negócios
-- 🌐 **Globe Academy** - Formação internacional certificada
+🔬 **Pesquisador Registrado** - ORCID verificado para publicações acadêmicas
+
+🛡️ **Cyber Threat Management** - Especialização em segurança cibernética
+
+📊 **Marketing Science Professional** - Certificação Meta em Marketing Digital
+
+💼 **Digital Marketing Associate** - Credenciamento profissional
+
+🎓 **Meta Certified** - Múltiplas certificações Meta para negócios
+
+🌐 **Globe Academy** - Formação internacional certificada
 
 </div>
 
